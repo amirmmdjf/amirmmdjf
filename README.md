@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning JavaScript & React JS ;<br>Based in Tehran ;<br>Born : 2006
+I'm currently learning ReactJS & NextJs ;<br>Based in Tehran ;<br>Born : 2006
 
 
 ## 🌐 Socials:
